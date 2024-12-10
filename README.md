@@ -17,3 +17,4 @@ El archivo "day-price.csv" es la tabla original, representa el precio de las acc
 
 En el archivo "S&P500.csv" se encuetra la informacion del mercado, esta informacion se uso para compararla con el crecimiento de las acciones de Nvidia.
 
+En la carpeta "Codigo" se encuentra la libreta Jupiter (Que se maneja en el lenguaje de programacion Python) utilizada para analizar la tabla usando pandas.
